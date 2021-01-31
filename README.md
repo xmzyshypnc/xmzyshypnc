@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Xmzyshypnc's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmzyshypnc&show_icons=true&theme=radical)
+![Xmzyshypnc's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmzyshypnc&show_icons=true&theme=dark)
 
 
 
