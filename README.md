@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Xmzyshypnc's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmzyshypnc)](https://github.com/anuraghazra/github-readme-stats)
+![Xmzyshypnc's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmzyshypnc&show_icons=true&theme=radical)
+
+
 
 <!--
 **xmzyshypnc/xmzyshypnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
