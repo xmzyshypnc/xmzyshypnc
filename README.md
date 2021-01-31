@@ -1,8 +1,6 @@
-### Hi there 👋
+### A nobody
 
 ![Xmzyshypnc's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmzyshypnc&show_icons=true&theme=dark)
-
-
 
 <!--
 **xmzyshypnc/xmzyshypnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
