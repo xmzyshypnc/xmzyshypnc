@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[1111](https://bilibili.com.cook1e.top/)
+https://bilibili.com.cook1e.top/
