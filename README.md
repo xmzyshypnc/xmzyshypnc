@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://bilibili.com.cook1e.top/
+https://ama2in9.top/7.html
