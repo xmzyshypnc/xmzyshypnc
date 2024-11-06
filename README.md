@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://ama2in9.top/7.html
+http://43.143.184.219:7878/test.html
