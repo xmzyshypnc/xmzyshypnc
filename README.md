@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-http://43.143.184.219:7878/test.html
